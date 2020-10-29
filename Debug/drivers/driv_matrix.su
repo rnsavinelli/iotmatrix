@@ -1,0 +1,5 @@
+driv_matrix.c:20:6:BarridoMatrix	8	static
+driv_matrix.c:32:6:InitMatrixLeds	8	static
+driv_matrix.c:60:6:ClearMatrixRegisters	16	static
+driv_matrix.c:70:6:TransferToMAX7219	24	static
+driv_matrix.c:97:6:TransferToAllMAX7219	24	static

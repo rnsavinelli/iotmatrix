@@ -1,0 +1,3 @@
+rtc176x.c:17:5:rtc_initialize	4	static
+rtc176x.c:30:5:rtc_gettime	24	static
+rtc176x.c:59:5:rtc_settime	16	static

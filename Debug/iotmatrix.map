@@ -1,0 +1,2101 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+                              ./src/iotmatrix.o (InicializarPLL)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+                              ./src/iotmatrix.o (malloc)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcpy.o)
+                              ./src/prim/prim_dataprocess.o (strcpy)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strlen.o)
+                              ./src/prim/prim_dataprocess.o (strlen)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o)
+                              ./src/prim/prim_dataprocess.o (strtok)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+                              c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o) (memcpy)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+                              c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o) (memset)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__init_alloc.o)
+                              c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o) (__heaps)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
+                              c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o) (_sbrk)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(errno.o)
+                              c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o) (errno)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcspn.o)
+                              c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o) (strcspn)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strspn.o)
+                              c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o) (strspn)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_check_heap.o)
+                              c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o) (__check_heap_overflow)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+                              ./src/fatfs.o (__aeabi_uldivmod)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o) (__aeabi_idiv0)
+c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./src/prim/prim_dataprocess.o
+ .group         0x00000000        0xc ./src/prim/prim_dataprocess.o
+ .group         0x00000000        0xc ./src/prim/prim_dataprocess.o
+ .group         0x00000000        0xc ./src/prim/prim_dataprocess.o
+ .text          0x00000000        0x0 ./src/prim/prim_dataprocess.o
+ .data          0x00000000        0x0 ./src/prim/prim_dataprocess.o
+ .bss           0x00000000        0x0 ./src/prim/prim_dataprocess.o
+ .bss.data      0x00000000       0x48 ./src/prim/prim_dataprocess.o
+ .text.dataToString
+                0x00000000       0x94 ./src/prim/prim_dataprocess.o
+ .group         0x00000000        0xc ./src/prim/prim_gpio.o
+ .group         0x00000000        0xc ./src/prim/prim_gpio.o
+ .group         0x00000000        0xc ./src/prim/prim_gpio.o
+ .text          0x00000000        0x0 ./src/prim/prim_gpio.o
+ .data          0x00000000        0x0 ./src/prim/prim_gpio.o
+ .bss           0x00000000        0x0 ./src/prim/prim_gpio.o
+ .debug_macro   0x00000000      0xa9c ./src/prim/prim_gpio.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_matrix.o
+ .text          0x00000000        0x0 ./src/prim/prim_matrix.o
+ .data          0x00000000        0x0 ./src/prim/prim_matrix.o
+ .bss           0x00000000        0x0 ./src/prim/prim_matrix.o
+ .debug_macro   0x00000000      0xa9c ./src/prim/prim_matrix.o
+ .debug_macro   0x00000000       0x2e ./src/prim/prim_matrix.o
+ .group         0x00000000        0xc ./src/prim/prim_rtc.o
+ .group         0x00000000        0xc ./src/prim/prim_rtc.o
+ .group         0x00000000        0xc ./src/prim/prim_rtc.o
+ .text          0x00000000        0x0 ./src/prim/prim_rtc.o
+ .data          0x00000000        0x0 ./src/prim/prim_rtc.o
+ .bss           0x00000000        0x0 ./src/prim/prim_rtc.o
+ .text.setDate  0x00000000       0x34 ./src/prim/prim_rtc.o
+ .text.getDate  0x00000000       0x3c ./src/prim/prim_rtc.o
+ .debug_macro   0x00000000      0xa9c ./src/prim/prim_rtc.o
+ .debug_macro   0x00000000       0x2e ./src/prim/prim_rtc.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_systick.o
+ .text          0x00000000        0x0 ./src/prim/prim_systick.o
+ .data          0x00000000        0x0 ./src/prim/prim_systick.o
+ .bss           0x00000000        0x0 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000      0xa9c ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x2e ./src/prim/prim_systick.o
+ .debug_macro   0x00000000      0x130 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x64 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000      0x172 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000      0x196 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x76 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000      0x118 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x40 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x16 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x16 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x10 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x10 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x10 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x28 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000      0x100 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x40 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x28 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x10 ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x1c ./src/prim/prim_systick.o
+ .debug_macro   0x00000000       0x16 ./src/prim/prim_systick.o
+ .group         0x00000000        0xc ./src/prim/prim_uart.o
+ .group         0x00000000        0xc ./src/prim/prim_uart.o
+ .group         0x00000000        0xc ./src/prim/prim_uart.o
+ .text          0x00000000        0x0 ./src/prim/prim_uart.o
+ .data          0x00000000        0x0 ./src/prim/prim_uart.o
+ .bss           0x00000000        0x0 ./src/prim/prim_uart.o
+ .text.getRxModulo_stringrecibido_OK
+                0x00000000       0x2c ./src/prim/prim_uart.o
+ .text.Receive_UART1
+                0x00000000        0xe ./src/prim/prim_uart.o
+ .debug_macro   0x00000000      0xa9c ./src/prim/prim_uart.o
+ .debug_macro   0x00000000       0x2e ./src/prim/prim_uart.o
+ .group         0x00000000        0xc ./src/drivers/driv_gpio.o
+ .group         0x00000000        0xc ./src/drivers/driv_gpio.o
+ .group         0x00000000        0xc ./src/drivers/driv_gpio.o
+ .text          0x00000000        0x0 ./src/drivers/driv_gpio.o
+ .data          0x00000000        0x0 ./src/drivers/driv_gpio.o
+ .bss           0x00000000        0x0 ./src/drivers/driv_gpio.o
+ .debug_macro   0x00000000      0xa9c ./src/drivers/driv_gpio.o
+ .debug_macro   0x00000000       0x2e ./src/drivers/driv_gpio.o
+ .debug_macro   0x00000000       0xa6 ./src/drivers/driv_gpio.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_matrix.o
+ .text          0x00000000        0x0 ./src/drivers/driv_matrix.o
+ .data          0x00000000        0x0 ./src/drivers/driv_matrix.o
+ .bss           0x00000000        0x0 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000      0xa9c ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x2e ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0xa6 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000      0x130 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x64 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000      0x196 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x76 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000      0x118 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x40 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x16 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x16 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x10 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x10 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x10 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x28 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000      0x100 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x40 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x28 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x10 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x1c ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x16 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x28 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x1c ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0xb8 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0xe9 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0xef ./src/drivers/driv_matrix.o
+ .debug_macro   0x00000000       0x28 ./src/drivers/driv_matrix.o
+ .group         0x00000000        0xc ./src/drivers/driv_rtc.o
+ .group         0x00000000        0xc ./src/drivers/driv_rtc.o
+ .group         0x00000000        0xc ./src/drivers/driv_rtc.o
+ .text          0x00000000        0x0 ./src/drivers/driv_rtc.o
+ .data          0x00000000        0x0 ./src/drivers/driv_rtc.o
+ .bss           0x00000000        0x0 ./src/drivers/driv_rtc.o
+ .debug_macro   0x00000000      0xa9c ./src/drivers/driv_rtc.o
+ .debug_macro   0x00000000       0x2e ./src/drivers/driv_rtc.o
+ .debug_macro   0x00000000       0x58 ./src/drivers/driv_rtc.o
+ .group         0x00000000        0xc ./src/drivers/driv_spi.o
+ .group         0x00000000        0xc ./src/drivers/driv_spi.o
+ .group         0x00000000        0xc ./src/drivers/driv_spi.o
+ .group         0x00000000        0xc ./src/drivers/driv_spi.o
+ .group         0x00000000        0xc ./src/drivers/driv_spi.o
+ .text          0x00000000        0x0 ./src/drivers/driv_spi.o
+ .data          0x00000000        0x0 ./src/drivers/driv_spi.o
+ .bss           0x00000000        0x0 ./src/drivers/driv_spi.o
+ .debug_macro   0x00000000      0xa9c ./src/drivers/driv_spi.o
+ .debug_macro   0x00000000       0x2e ./src/drivers/driv_spi.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_systick.o
+ .text          0x00000000        0x0 ./src/drivers/driv_systick.o
+ .data          0x00000000        0x0 ./src/drivers/driv_systick.o
+ .bss           0x00000000        0x0 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000      0xa9c ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x2e ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000      0x130 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x64 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000      0x172 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000      0x196 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x76 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000      0x118 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x40 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x16 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x16 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x10 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x10 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x10 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x28 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000      0x100 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x40 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x28 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x10 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x1c ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x16 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x28 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0xa6 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x1c ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0xb8 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0xe9 ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0xef ./src/drivers/driv_systick.o
+ .debug_macro   0x00000000       0x28 ./src/drivers/driv_systick.o
+ .group         0x00000000        0xc ./src/drivers/driv_uart.o
+ .group         0x00000000        0xc ./src/drivers/driv_uart.o
+ .group         0x00000000        0xc ./src/drivers/driv_uart.o
+ .group         0x00000000        0xc ./src/drivers/driv_uart.o
+ .text          0x00000000        0x0 ./src/drivers/driv_uart.o
+ .data          0x00000000        0x0 ./src/drivers/driv_uart.o
+ .bss           0x00000000        0x0 ./src/drivers/driv_uart.o
+ .bss.bufferRX  0x00000000       0x64 ./src/drivers/driv_uart.o
+ .debug_macro   0x00000000      0xa9c ./src/drivers/driv_uart.o
+ .debug_macro   0x00000000       0x2e ./src/drivers/driv_uart.o
+ .debug_macro   0x00000000       0xa6 ./src/drivers/driv_uart.o
+ .debug_macro   0x00000000      0x19c ./src/drivers/driv_uart.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/MdESistema.o
+ .text          0x00000000        0x0 ./src/MdESistema.o
+ .data          0x00000000        0x0 ./src/MdESistema.o
+ .bss           0x00000000        0x0 ./src/MdESistema.o
+ .bss.status_sd
+                0x00000000        0x1 ./src/MdESistema.o
+ .bss.escribir  0x00000000        0x1 ./src/MdESistema.o
+ .bss.leer      0x00000000        0x1 ./src/MdESistema.o
+ .debug_macro   0x00000000      0xa9c ./src/MdESistema.o
+ .debug_macro   0x00000000       0x2e ./src/MdESistema.o
+ .debug_macro   0x00000000       0x1c ./src/MdESistema.o
+ .debug_macro   0x00000000       0xb8 ./src/MdESistema.o
+ .debug_macro   0x00000000       0xe9 ./src/MdESistema.o
+ .debug_macro   0x00000000       0xef ./src/MdESistema.o
+ .debug_macro   0x00000000       0x28 ./src/MdESistema.o
+ .debug_macro   0x00000000       0xac ./src/MdESistema.o
+ .debug_macro   0x00000000      0x130 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x64 ./src/MdESistema.o
+ .debug_macro   0x00000000      0x196 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x76 ./src/MdESistema.o
+ .debug_macro   0x00000000      0x118 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x16 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x16 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x10 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x10 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x10 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x28 ./src/MdESistema.o
+ .debug_macro   0x00000000      0x100 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x40 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x28 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x10 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x1c ./src/MdESistema.o
+ .debug_macro   0x00000000       0x16 ./src/MdESistema.o
+ .debug_macro   0x00000000       0x28 ./src/MdESistema.o
+ .debug_macro   0x00000000      0x19c ./src/MdESistema.o
+ .debug_macro   0x00000000       0x2e ./src/MdESistema.o
+ .debug_macro   0x00000000       0x10 ./src/MdESistema.o
+ .debug_macro   0x00000000      0x12e ./src/MdESistema.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc175x_6x.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0xa9c ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0xc ./src/crp.o
+ .group         0x00000000        0xc ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0xa9c ./src/crp.o
+ .group         0x00000000        0xc ./src/fatfs.o
+ .group         0x00000000        0xc ./src/fatfs.o
+ .group         0x00000000        0xc ./src/fatfs.o
+ .group         0x00000000        0xc ./src/fatfs.o
+ .group         0x00000000        0xc ./src/fatfs.o
+ .group         0x00000000        0xc ./src/fatfs.o
+ .group         0x00000000        0xc ./src/fatfs.o
+ .group         0x00000000        0xc ./src/fatfs.o
+ .group         0x00000000        0xc ./src/fatfs.o
+ .group         0x00000000        0xc ./src/fatfs.o
+ .text          0x00000000        0x0 ./src/fatfs.o
+ .data          0x00000000        0x0 ./src/fatfs.o
+ .bss           0x00000000        0x0 ./src/fatfs.o
+ .rodata.DbcTbl
+                0x00000000        0xa ./src/fatfs.o
+ .text.xsum32   0x00000000       0x24 ./src/fatfs.o
+ .text.get_xdir_info
+                0x00000000      0x126 ./src/fatfs.o
+ .text.dir_remove
+                0x00000000       0xb0 ./src/fatfs.o
+ .text.get_fileinfo
+                0x00000000      0x1f4 ./src/fatfs.o
+ .text.get_achar
+                0x00000000       0x6e ./src/fatfs.o
+ .text.pattern_matching
+                0x00000000       0xf6 ./src/fatfs.o
+ .text.f_chdir  0x00000000       0xe8 ./src/fatfs.o
+ .text.f_getcwd
+                0x00000000      0x25c ./src/fatfs.o
+ .text.f_lseek_SD
+                0x00000000      0x446 ./src/fatfs.o
+ .text.f_opendir
+                0x00000000      0x11e ./src/fatfs.o
+ .text.f_closedir
+                0x00000000       0x30 ./src/fatfs.o
+ .text.f_readdir
+                0x00000000       0x7a ./src/fatfs.o
+ .text.f_findnext
+                0x00000000       0x50 ./src/fatfs.o
+ .text.f_findfirst
+                0x00000000       0x3c ./src/fatfs.o
+ .text.f_stat   0x00000000       0x72 ./src/fatfs.o
+ .text.f_getfree
+                0x00000000      0x204 ./src/fatfs.o
+ .text.f_truncate
+                0x00000000      0x152 ./src/fatfs.o
+ .text.f_unlink
+                0x00000000      0x1d8 ./src/fatfs.o
+ .text.f_mkdir  0x00000000      0x24e ./src/fatfs.o
+ .text.f_rename
+                0x00000000      0x336 ./src/fatfs.o
+ .text.f_chmod  0x00000000       0xf8 ./src/fatfs.o
+ .text.f_utime  0x00000000       0xd4 ./src/fatfs.o
+ .text.f_getlabel
+                0x00000000      0x1d2 ./src/fatfs.o
+ .text.f_setlabel
+                0x00000000      0x410 ./src/fatfs.o
+ .text.f_mkfs   0x00000000     0x11c8 ./src/fatfs.o
+ .rodata.badchr.5022
+                0x00000000       0x10 ./src/fatfs.o
+ .rodata.cst32.5047
+                0x00000000        0xe ./src/fatfs.o
+ .rodata.cst.5046
+                0x00000000        0xe ./src/fatfs.o
+ .debug_macro   0x00000000      0xa9c ./src/fatfs.o
+ .debug_macro   0x00000000       0xe9 ./src/fatfs.o
+ .debug_macro   0x00000000       0xef ./src/fatfs.o
+ .debug_macro   0x00000000       0x10 ./src/fatfs.o
+ .debug_macro   0x00000000      0x12e ./src/fatfs.o
+ .debug_macro   0x00000000      0x5b3 ./src/fatfs.o
+ .debug_macro   0x00000000     0x1a3b ./src/fatfs.o
+ .group         0x00000000        0xc ./src/ffunicode.o
+ .group         0x00000000        0xc ./src/ffunicode.o
+ .group         0x00000000        0xc ./src/ffunicode.o
+ .text          0x00000000        0x0 ./src/ffunicode.o
+ .data          0x00000000        0x0 ./src/ffunicode.o
+ .bss           0x00000000        0x0 ./src/ffunicode.o
+ .debug_macro   0x00000000      0xa9c ./src/ffunicode.o
+ .debug_macro   0x00000000       0xe9 ./src/ffunicode.o
+ .debug_macro   0x00000000       0xef ./src/ffunicode.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/iotmatrix.o
+ .text          0x00000000        0x0 ./src/iotmatrix.o
+ .data          0x00000000        0x0 ./src/iotmatrix.o
+ .bss           0x00000000        0x0 ./src/iotmatrix.o
+ .bss.recibio   0x00000000        0x1 ./src/iotmatrix.o
+ .debug_macro   0x00000000      0xa9c ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x2e ./src/iotmatrix.o
+ .debug_macro   0x00000000      0x130 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x64 ./src/iotmatrix.o
+ .debug_macro   0x00000000      0x172 ./src/iotmatrix.o
+ .debug_macro   0x00000000      0x196 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x76 ./src/iotmatrix.o
+ .debug_macro   0x00000000      0x118 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x40 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x16 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x16 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x10 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x10 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x10 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x28 ./src/iotmatrix.o
+ .debug_macro   0x00000000      0x100 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x40 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x28 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x10 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x1c ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x16 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x1c ./src/iotmatrix.o
+ .debug_macro   0x00000000       0xb8 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0xe9 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0xef ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x28 ./src/iotmatrix.o
+ .debug_macro   0x00000000       0x10 ./src/iotmatrix.o
+ .debug_macro   0x00000000      0x12e ./src/iotmatrix.o
+ .debug_macro   0x00000000      0x5b3 ./src/iotmatrix.o
+ .debug_macro   0x00000000     0x1a3b ./src/iotmatrix.o
+ .group         0x00000000        0xc ./src/rtc176x.o
+ .group         0x00000000        0xc ./src/rtc176x.o
+ .group         0x00000000        0xc ./src/rtc176x.o
+ .group         0x00000000        0xc ./src/rtc176x.o
+ .group         0x00000000        0xc ./src/rtc176x.o
+ .text          0x00000000        0x0 ./src/rtc176x.o
+ .data          0x00000000        0x0 ./src/rtc176x.o
+ .bss           0x00000000        0x0 ./src/rtc176x.o
+ .text.rtc_initialize
+                0x00000000       0x28 ./src/rtc176x.o
+ .text.rtc_settime
+                0x00000000       0x84 ./src/rtc176x.o
+ .debug_macro   0x00000000      0xa9c ./src/rtc176x.o
+ .debug_macro   0x00000000       0x10 ./src/rtc176x.o
+ .debug_macro   0x00000000      0x12e ./src/rtc176x.o
+ .debug_macro   0x00000000      0x5b3 ./src/rtc176x.o
+ .debug_macro   0x00000000     0x1a3b ./src/rtc176x.o
+ .group         0x00000000        0xc C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+ .group         0x00000000        0xc C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+ .group         0x00000000        0xc C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+ .text          0x00000000        0x0 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+ .data          0x00000000        0x0 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+ .bss           0x00000000        0x0 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+ .debug_macro   0x00000000       0x2e C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+ .text.free     0x00000000       0x30 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+ .text.calloc   0x00000000       0x50 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+ .text._Csys_alloc
+                0x00000000       0x20 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+ .text.realloc  0x00000000       0x24 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+ .rodata._Csys_alloc.str1.1
+                0x00000000       0x18 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strlen.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strlen.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strlen.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+ .text.memcpy   0x00000000        0x4 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+ .comment       0x00000000       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+ .text.memset   0x00000000        0x4 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+ .comment       0x00000000       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__init_alloc.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__init_alloc.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__init_alloc.o)
+ .text._init_alloc
+                0x00000000       0x14 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__init_alloc.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(errno.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(errno.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(errno.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcspn.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcspn.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcspn.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strspn.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strspn.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strspn.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_check_heap.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_check_heap.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_check_heap.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_ldivmod
+                0x00000000       0x26 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_uldivmod
+                0x00000000      0x174 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+ .ARM.attributes
+                0x00000000       0x1b c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .text.__aeabi_division_idiv0
+                0x00000000        0x2 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x00000000       0x1b c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memcpy
+                0x00000000       0x34 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset_lowlevel
+                0x00000000       0x32 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x8 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0xa c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .ARM.attributes
+                0x00000000       0x1b c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/prim/prim_dataprocess.o
+LOAD ./src/prim/prim_gpio.o
+LOAD ./src/prim/prim_matrix.o
+LOAD ./src/prim/prim_rtc.o
+LOAD ./src/prim/prim_systick.o
+LOAD ./src/prim/prim_uart.o
+LOAD ./src/drivers/driv_gpio.o
+LOAD ./src/drivers/driv_matrix.o
+LOAD ./src/drivers/driv_rtc.o
+LOAD ./src/drivers/driv_spi.o
+LOAD ./src/drivers/driv_systick.o
+LOAD ./src/drivers/driv_uart.o
+LOAD ./src/MdESistema.o
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD ./src/fatfs.o
+LOAD ./src/ffunicode.o
+LOAD ./src/iotmatrix.o
+LOAD ./src/rtc176x.o
+LOAD C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a
+START GROUP
+LOAD c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a
+LOAD c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a
+LOAD c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libgcc.a
+END GROUP
+                0x00000000                __base_MFlash512 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00080000                __top_MFlash512 = 0x80000
+                0x00080000                __top_Flash = 0x80000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x2007c000                __base_RamAHB32 = 0x2007c000
+                0x2007c000                __base_RAM2 = 0x2007c000
+                0x20084000                __top_RamAHB32 = 0x20084000
+                0x20084000                __top_RAM2 = 0x20084000
+
+.text           0x00000000    0x168b0
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x168b0 LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x204 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x168b0 LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000204 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x63c SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4      0x128 ./src/cr_startup_lpc175x_6x.o
+                0x000000f4                data_init
+                0x00000136                bss_init
+                0x0000016c                ResetISR
+                0x000001e0                NMI_Handler
+                0x000001e6                HardFault_Handler
+                0x000001ec                MemManage_Handler
+                0x000001f2                BusFault_Handler
+                0x000001f8                UsageFault_Handler
+                0x000001fe                SVC_Handler
+                0x00000204                DebugMon_Handler
+                0x0000020a                PendSV_Handler
+                0x00000216                EINT3_IRQHandler
+                0x00000216                CANActivity_IRQHandler
+                0x00000216                TIMER3_IRQHandler
+                0x00000216                UART0_IRQHandler
+                0x00000216                USBActivity_IRQHandler
+                0x00000216                EINT2_IRQHandler
+                0x00000216                IntDefaultHandler
+                0x00000216                PLL0_IRQHandler
+                0x00000216                CAN_IRQHandler
+                0x00000216                I2C0_IRQHandler
+                0x00000216                SSP0_IRQHandler
+                0x00000216                I2C1_IRQHandler
+                0x00000216                I2C2_IRQHandler
+                0x00000216                RTC_IRQHandler
+                0x00000216                TIMER0_IRQHandler
+                0x00000216                SPI_IRQHandler
+                0x00000216                RIT_IRQHandler
+                0x00000216                EINT1_IRQHandler
+                0x00000216                TIMER1_IRQHandler
+                0x00000216                UART2_IRQHandler
+                0x00000216                ADC_IRQHandler
+                0x00000216                SSP1_IRQHandler
+                0x00000216                USB_IRQHandler
+                0x00000216                BOD_IRQHandler
+                0x00000216                PWM1_IRQHandler
+                0x00000216                WDT_IRQHandler
+                0x00000216                I2S_IRQHandler
+                0x00000216                QEI_IRQHandler
+                0x00000216                EINT0_IRQHandler
+                0x00000216                PLL1_IRQHandler
+                0x00000216                DMA_IRQHandler
+                0x00000216                TIMER2_IRQHandler
+                0x00000216                UART3_IRQHandler
+                0x00000216                MCPWM_IRQHandler
+                0x00000216                ENET_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x0000021c       0xe0 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__ = .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__ = .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.stringToData
+                0x00000300       0xb0 ./src/prim/prim_dataprocess.o
+                0x00000300                stringToData
+ .text.verifyData
+                0x000003b0       0xfc ./src/prim/prim_dataprocess.o
+                0x000003b0                verifyData
+ .text.dataLen  0x000004ac       0x2c ./src/prim/prim_dataprocess.o
+                0x000004ac                dataLen
+ .text.GetTecla
+                0x000004d8       0x30 ./src/prim/prim_gpio.o
+                0x000004d8                GetTecla
+ .text.DisplayMatrix
+                0x00000508      0x2e4 ./src/prim/prim_matrix.o
+                0x00000508                DisplayMatrix
+ .text.ShiftMatrix
+                0x000007ec       0x28 ./src/prim/prim_matrix.o
+                0x000007ec                ShiftMatrix
+ .text.ShiftRightMatrix
+                0x00000814      0x158 ./src/prim/prim_matrix.o
+                0x00000814                ShiftRightMatrix
+ .text.ShiftLeftMatrix
+                0x0000096c      0x148 ./src/prim/prim_matrix.o
+                0x0000096c                ShiftLeftMatrix
+ .text.ClearMatrix
+                0x00000ab4       0x30 ./src/prim/prim_matrix.o
+                0x00000ab4                ClearMatrix
+ .text.setTime  0x00000ae4       0x34 ./src/prim/prim_rtc.o
+                0x00000ae4                setTime
+ .text.getTime  0x00000b18       0x3c ./src/prim/prim_rtc.o
+                0x00000b18                getTime
+ .text.horaToStr
+                0x00000b54       0x88 ./src/prim/prim_rtc.o
+                0x00000b54                horaToStr
+ .text.TimEvent
+                0x00000bdc       0x30 ./src/prim/prim_systick.o
+                0x00000bdc                TimEvent
+ .text.TimStart
+                0x00000c0c       0x70 ./src/prim/prim_systick.o
+                0x00000c0c                TimStart
+ .text.TimStop  0x00000c7c       0x30 ./src/prim/prim_systick.o
+                0x00000c7c                TimStop
+ .text.Recepcion_ModuloWifi
+                0x00000cac       0x68 ./src/prim/prim_uart.o
+                0x00000cac                Recepcion_ModuloWifi
+ .text.Recepcion_ModuloWifi_Data
+                0x00000d14      0x1a0 ./src/prim/prim_uart.o
+                0x00000d14                Recepcion_ModuloWifi_Data
+ .text.getRxModuloOK
+                0x00000eb4       0x2c ./src/prim/prim_uart.o
+                0x00000eb4                getRxModuloOK
+ .text.Transmit_UART1
+                0x00000ee0       0x36 ./src/prim/prim_uart.o
+                0x00000ee0                Transmit_UART1
+ *fill*         0x00000f16        0x2 ff
+ .text.PushTX_UART1
+                0x00000f18       0x74 ./src/prim/prim_uart.o
+                0x00000f18                PushTX_UART1
+ .text.PopTX_UART1
+                0x00000f8c       0x64 ./src/prim/prim_uart.o
+                0x00000f8c                PopTX_UART1
+ .text.PushRX_UART1
+                0x00000ff0       0x54 ./src/prim/prim_uart.o
+                0x00000ff0                PushRX_UART1
+ .text.PopRX_UART1
+                0x00001044       0x64 ./src/prim/prim_uart.o
+                0x00001044                PopRX_UART1
+ .text.GetTeclaHW
+                0x000010a8       0x68 ./src/drivers/driv_gpio.o
+                0x000010a8                GetTeclaHW
+ .text.GetTeclaSW
+                0x00001110       0x68 ./src/drivers/driv_gpio.o
+                0x00001110                GetTeclaSW
+ .text.InitLedRGB
+                0x00001178       0x80 ./src/drivers/driv_gpio.o
+                0x00001178                InitLedRGB
+ .text.InitButtons
+                0x000011f8       0x80 ./src/drivers/driv_gpio.o
+                0x000011f8                InitButtons
+ .text.SetPINSEL_
+                0x00001278       0x92 ./src/drivers/driv_gpio.o
+                0x00001278                SetPINSEL_
+ *fill*         0x0000130a        0x2 ff
+ .text.SetMODE_
+                0x0000130c       0x8c ./src/drivers/driv_gpio.o
+                0x0000130c                SetMODE_
+ .text.SetDIR_  0x00001398       0x76 ./src/drivers/driv_gpio.o
+                0x00001398                SetDIR_
+ *fill*         0x0000140e        0x2 ff
+ .text.SetPIN_  0x00001410       0x6c ./src/drivers/driv_gpio.o
+                0x00001410                SetPIN_
+ .text.GetPIN_  0x0000147c       0x3c ./src/drivers/driv_gpio.o
+                0x0000147c                GetPIN_
+ .text.BarridoMatrix
+                0x000014b8       0x64 ./src/drivers/driv_matrix.o
+                0x000014b8                BarridoMatrix
+ .text.InitMatrixLeds
+                0x0000151c       0xb4 ./src/drivers/driv_matrix.o
+                0x0000151c                InitMatrixLeds
+ .text.ClearMatrixRegisters
+                0x000015d0       0x32 ./src/drivers/driv_matrix.o
+                0x000015d0                ClearMatrixRegisters
+ *fill*         0x00001602        0x2 ff
+ .text.TransferToMAX7219
+                0x00001604      0x11c ./src/drivers/driv_matrix.o
+                0x00001604                TransferToMAX7219
+ .text.TransferToAllMAX7219
+                0x00001720       0xc2 ./src/drivers/driv_matrix.o
+                0x00001720                TransferToAllMAX7219
+ *fill*         0x000017e2        0x2 ff
+ .text.InitRTC  0x000017e4       0x9c ./src/drivers/driv_rtc.o
+                0x000017e4                InitRTC
+ .text.InitSPI  0x00001880      0x128 ./src/drivers/driv_spi.o
+                0x00001880                InitSPI
+ .text.InicializarSysTick
+                0x000019a8       0x4c ./src/drivers/driv_systick.o
+                0x000019a8                InicializarSysTick
+ .text.SysTick_Handler
+                0x000019f4       0x34 ./src/drivers/driv_systick.o
+                0x000019f4                SysTick_Handler
+ .text.AnalizeTimer
+                0x00001a28       0x5c ./src/drivers/driv_systick.o
+                0x00001a28                AnalizeTimer
+ .text.InitUART1
+                0x00001a84       0x98 ./src/drivers/driv_uart.o
+                0x00001a84                InitUART1
+ .text.UART1_IRQHandler
+                0x00001b1c       0x68 ./src/drivers/driv_uart.o
+                0x00001b1c                UART1_IRQHandler
+ .text.MdESistema
+                0x00001b84       0x84 ./src/MdESistema.o
+                0x00001b84                MdESistema
+ .text.InitMdESistema
+                0x00001c08       0x48 ./src/MdESistema.o
+                0x00001c08                InitMdESistema
+ .text.InitMdEDesconectado
+                0x00001c50       0x40 ./src/MdESistema.o
+                0x00001c50                InitMdEDesconectado
+ .text.InitMdEConectado
+                0x00001c90       0x34 ./src/MdESistema.o
+                0x00001c90                InitMdEConectado
+ .text.MdEDesconectado
+                0x00001cc4      0x1a0 ./src/MdESistema.o
+                0x00001cc4                MdEDesconectado
+ .text.IncreaseVel_Matrix
+                0x00001e64       0x2c ./src/MdESistema.o
+                0x00001e64                IncreaseVel_Matrix
+ .text.DecreaseVel_Matrix
+                0x00001e90       0x2c ./src/MdESistema.o
+                0x00001e90                DecreaseVel_Matrix
+ .text.ToggleOrientation_Matrix
+                0x00001ebc       0x48 ./src/MdESistema.o
+                0x00001ebc                ToggleOrientation_Matrix
+ .text.ChangeMode_Matrix
+                0x00001f04       0x30 ./src/MdESistema.o
+                0x00001f04                ChangeMode_Matrix
+ .text.MdEConectado
+                0x00001f34      0x588 ./src/MdESistema.o
+                0x00001f34                MdEConectado
+ .text.Coneccion
+                0x000024bc       0x14 ./src/MdESistema.o
+                0x000024bc                Coneccion
+ .text.xchg_spi
+                0x000024d0       0x38 ./src/fatfs.o
+ .text.rcvr_spi_multi
+                0x00002508       0xe4 ./src/fatfs.o
+ .text.xmit_spi_multi
+                0x000025ec       0xe4 ./src/fatfs.o
+ .text.wait_ready
+                0x000026d0       0x40 ./src/fatfs.o
+ .text.deselect
+                0x00002710       0x18 ./src/fatfs.o
+ .text.select   0x00002728       0x30 ./src/fatfs.o
+ .text.power_on
+                0x00002758       0xcc ./src/fatfs.o
+ .text.power_off
+                0x00002824       0x10 ./src/fatfs.o
+ .text.rcvr_datablock
+                0x00002834       0x54 ./src/fatfs.o
+ .text.xmit_datablock
+                0x00002888       0x68 ./src/fatfs.o
+ .text.send_cmd
+                0x000028f0       0xde ./src/fatfs.o
+ *fill*         0x000029ce        0x2 ff
+ .text.disk_initialize
+                0x000029d0      0x1b4 ./src/fatfs.o
+                0x000029d0                disk_initialize
+ .text.disk_status
+                0x00002b84       0x28 ./src/fatfs.o
+                0x00002b84                disk_status
+ .text.disk_read
+                0x00002bac       0xb8 ./src/fatfs.o
+                0x00002bac                disk_read
+ .text.disk_write
+                0x00002c64       0xf8 ./src/fatfs.o
+                0x00002c64                disk_write
+ .text.disk_ioctl
+                0x00002d5c      0x490 ./src/fatfs.o
+                0x00002d5c                disk_ioctl
+ .text.disk_timerproc
+                0x000031ec       0x68 ./src/fatfs.o
+                0x000031ec                disk_timerproc
+ .text.ld_word  0x00003254       0x2e ./src/fatfs.o
+ .text.ld_dword
+                0x00003282       0x44 ./src/fatfs.o
+ .text.ld_qword
+                0x000032c6      0x17e ./src/fatfs.o
+ .text.st_word  0x00003444       0x34 ./src/fatfs.o
+ .text.st_dword
+                0x00003478       0x56 ./src/fatfs.o
+ .text.st_qword
+                0x000034ce      0x10e ./src/fatfs.o
+ .text.mem_cpy  0x000035dc       0x40 ./src/fatfs.o
+ .text.mem_set  0x0000361c       0x32 ./src/fatfs.o
+ .text.mem_cmp  0x0000364e       0x4c ./src/fatfs.o
+ .text.chk_chr  0x0000369a       0x34 ./src/fatfs.o
+ .text.dbc_1st  0x000036ce       0x3e ./src/fatfs.o
+ .text.dbc_2nd  0x0000370c       0x52 ./src/fatfs.o
+ .text.sync_window
+                0x0000375e       0x78 ./src/fatfs.o
+ .text.move_window
+                0x000037d6       0x5a ./src/fatfs.o
+ .text.sync_fs  0x00003830       0xdc ./src/fatfs.o
+ .text.clst2sect
+                0x0000390c       0x3c ./src/fatfs.o
+ .text.get_fat  0x00003948      0x238 ./src/fatfs.o
+ .text.put_fat  0x00003b80      0x1ec ./src/fatfs.o
+ .text.find_bitmap
+                0x00003d6c       0xf8 ./src/fatfs.o
+ .text.change_bitmap
+                0x00003e64       0xd4 ./src/fatfs.o
+ .text.fill_first_frag
+                0x00003f38       0x5e ./src/fatfs.o
+ .text.fill_last_frag
+                0x00003f96       0x62 ./src/fatfs.o
+ .text.remove_chain
+                0x00003ff8      0x1c4 ./src/fatfs.o
+ .text.create_chain
+                0x000041bc      0x276 ./src/fatfs.o
+ .text.dir_clear
+                0x00004432       0x90 ./src/fatfs.o
+ .text.dir_sdi  0x000044c2      0x10c ./src/fatfs.o
+ .text.dir_next
+                0x000045ce      0x144 ./src/fatfs.o
+ .text.dir_alloc
+                0x00004712       0xb8 ./src/fatfs.o
+ .text.ld_clust
+                0x000047ca       0x3e ./src/fatfs.o
+ .text.st_clust
+                0x00004808       0x40 ./src/fatfs.o
+ .text.cmp_lfn  0x00004848       0xe0 ./src/fatfs.o
+ .text.pick_lfn
+                0x00004928       0xc8 ./src/fatfs.o
+ .text.put_lfn  0x000049f0       0xd0 ./src/fatfs.o
+ .text.gen_numname
+                0x00004ac0      0x146 ./src/fatfs.o
+ .text.sum_sfn  0x00004c06       0x40 ./src/fatfs.o
+ .text.xdir_sum
+                0x00004c46       0x64 ./src/fatfs.o
+ .text.xname_sum
+                0x00004caa       0x68 ./src/fatfs.o
+ *fill*         0x00004d12        0x2 ff
+ .text.load_xdir
+                0x00004d14      0x190 ./src/fatfs.o
+ .text.load_obj_xdir
+                0x00004ea4       0x7c ./src/fatfs.o
+ .text.store_xdir
+                0x00004f20       0xb6 ./src/fatfs.o
+ .text.create_xdir
+                0x00004fd6       0xd2 ./src/fatfs.o
+ .text.dir_read
+                0x000050a8      0x19c ./src/fatfs.o
+ .text.dir_find
+                0x00005244      0x252 ./src/fatfs.o
+ *fill*         0x00005496        0x2 ff
+ .text.dir_register
+                0x00005498      0x370 ./src/fatfs.o
+ .text.create_name
+                0x00005808      0x484 ./src/fatfs.o
+ .text.follow_path
+                0x00005c8c      0x222 ./src/fatfs.o
+ .text.get_ldnumber
+                0x00005eae       0x8e ./src/fatfs.o
+ .text.check_fs
+                0x00005f3c       0xc8 ./src/fatfs.o
+ .text.find_volume
+                0x00006004      0x6bc ./src/fatfs.o
+ .text.validate
+                0x000066c0       0x6a ./src/fatfs.o
+ *fill*         0x0000672a        0x2 ff
+ .text.f_mount_SD
+                0x0000672c       0x80 ./src/fatfs.o
+                0x0000672c                f_mount_SD
+ .text.f_open_SD
+                0x000067ac      0x4c0 ./src/fatfs.o
+                0x000067ac                f_open_SD
+ .text.f_read_SD
+                0x00006c6c      0x2e2 ./src/fatfs.o
+                0x00006c6c                f_read_SD
+ .text.f_write  0x00006f4e      0x378 ./src/fatfs.o
+                0x00006f4e                f_write
+ .text.f_sync   0x000072c6      0x24a ./src/fatfs.o
+                0x000072c6                f_sync
+ .text.f_close_SD
+                0x00007510       0x40 ./src/fatfs.o
+                0x00007510                f_close_SD
+ .text.f_gets_SD
+                0x00007550       0x72 ./src/fatfs.o
+                0x00007550                f_gets_SD
+ *fill*         0x000075c2        0x2 ff
+ .text.ff_uni2oem
+                0x000075c4       0xa8 ./src/ffunicode.o
+                0x000075c4                ff_uni2oem
+ .text.ff_oem2uni
+                0x0000766c       0xa8 ./src/ffunicode.o
+                0x0000766c                ff_oem2uni
+ .text.ff_wtoupper
+                0x00007714      0x110 ./src/ffunicode.o
+                0x00007714                ff_wtoupper
+ .text.get_fattime
+                0x00007824       0x3e ./src/iotmatrix.o
+                0x00007824                get_fattime
+ *fill*         0x00007862        0x2 ff
+ .text.main     0x00007864      0x104 ./src/iotmatrix.o
+                0x00007864                main
+ .text.rtc_gettime
+                0x00007968       0xe8 ./src/rtc176x.o
+                0x00007968                rtc_gettime
+ .text.InicializarPLL
+                0x00007a50      0x140 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+                0x00007a50                InicializarPLL
+ .text.__weak_main
+                0x00007b90        0x4 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+                0x00007b90                __weak_main
+                0x00007b90                __main
+ .text.malloc   0x00007b94       0xc8 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+                0x00007b94                malloc
+ .text.strcpy   0x00007c5c       0x42 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcpy.o)
+                0x00007c5c                strcpy
+ .text.strlen   0x00007c9e       0x4c c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strlen.o)
+                0x00007c9e                strlen
+ *fill*         0x00007cea        0x2 ff
+ .text.strtok   0x00007cec       0x40 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o)
+                0x00007cec                strtok
+ .text._sbrk    0x00007d2c       0x3c c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
+                0x00007d2c                _sbrk
+ .text.strcspn  0x00007d68       0x1e c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcspn.o)
+                0x00007d68                strcspn
+ .text.strspn   0x00007d86       0x1e c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strspn.o)
+                0x00007d86                strspn
+ .text.__check_heap_overflow
+                0x00007da4       0x18 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_check_heap.o)
+                0x00007da4                __check_heap_overflow
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata        0x00007dbc        0xa ./src/prim/prim_dataprocess.o
+ *fill*         0x00007dc6        0x2 ff
+ .rodata        0x00007dc8       0xab ./src/MdESistema.o
+ *fill*         0x00007e73        0x1 ff
+ .rodata.LfnOfs
+                0x00007e74        0xd ./src/fatfs.o
+ *fill*         0x00007e81        0x3 ff
+ .rodata        0x00007e84       0x60 ./src/fatfs.o
+ .rodata.uni2oem932
+                0x00007ee4     0x7378 ./src/ffunicode.o
+ .rodata.oem2uni932
+                0x0000f25c     0x7378 ./src/ffunicode.o
+ .rodata.cvt1.3802
+                0x000165d4      0x1f2 ./src/ffunicode.o
+ *fill*         0x000167c6        0x2 ff
+ .rodata.cvt2.3803
+                0x000167c8       0xbc ./src/ffunicode.o
+ .rodata        0x00016884       0x2a ./src/iotmatrix.o
+ .rodata.str1.1
+                0x000168ae        0x1 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o)
+                0x000168b0                . = ALIGN (0x4)
+ *fill*         0x000168af        0x1 ff
+
+.glue_7         0x000168b0        0x0
+ .glue_7        0x000168b0        0x0 linker stubs
+
+.glue_7t        0x000168b0        0x0
+ .glue_7t       0x000168b0        0x0 linker stubs
+
+.vfp11_veneer   0x000168b0        0x0
+ .vfp11_veneer  0x000168b0        0x0 linker stubs
+
+.v4_bx          0x000168b0        0x0
+ .v4_bx         0x000168b0        0x0 linker stubs
+
+.iplt           0x000168b0        0x0
+ .iplt          0x000168b0        0x0 ./src/prim/prim_dataprocess.o
+
+.rel.dyn        0x000168b0        0x0
+ .rel.iplt      0x000168b0        0x0 ./src/prim/prim_dataprocess.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000168b0                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000168b0                __exidx_end = .
+                0x000168b0                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x000168b0
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2 = .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2)
+ *(.data.$RamAHB32)
+ *(.data.$RAM2.*)
+ *(.data.$RamAHB32.*)
+                0x2007c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2 = .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+                0x10000000                . = ALIGN (0x4)
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000      0x204 load address 0x000168b0
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.tablaMatriz
+                0x10000000      0x1f4 ./src/prim/prim_matrix.o
+                0x10000000                tablaMatriz
+ .data.orientation_actual.4094
+                0x100001f4        0x1 ./src/prim/prim_matrix.o
+ .data.orientation_anterior.4093
+                0x100001f5        0x1 ./src/prim/prim_matrix.o
+ .data.signal_recibido.3719
+                0x100001f6        0x1 ./src/prim/prim_uart.o
+ .data.lastKey.3705
+                0x100001f7        0x1 ./src/drivers/driv_gpio.o
+ .data.orientation_actual.4089
+                0x100001f8        0x1 ./src/drivers/driv_matrix.o
+ .data.orientation_anterior.4088
+                0x100001f9        0x1 ./src/drivers/driv_matrix.o
+ .data.orientation_actual.4107
+                0x100001fa        0x1 ./src/drivers/driv_matrix.o
+ .data.orientation_anterior.4106
+                0x100001fb        0x1 ./src/drivers/driv_matrix.o
+ .data.signal_disconnect
+                0x100001fc        0x1 ./src/MdESistema.o
+                0x100001fc                signal_disconnect
+ .data.Stat     0x100001fd        0x1 ./src/fatfs.o
+ *fill*         0x100001fe        0x2 ff
+ .data.saves1.3899
+                0x10000200        0x4 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o)
+                0x10000204                . = ALIGN (0x4)
+                0x10000204                _edata = .
+
+.igot.plt       0x10000204        0x0 load address 0x00016ab4
+ .igot.plt      0x10000204        0x0 ./src/prim/prim_dataprocess.o
+
+.bss_RAM2       0x2007c000        0x0
+                0x2007c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__start_bss_RAM2 = .)
+ *(.bss.$RAM2)
+ *(.bss.$RamAHB32)
+ *(.bss.$RAM2.*)
+ *(.bss.$RamAHB32.*)
+                0x2007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2 = .)
+
+.bss            0x10000204      0x63c
+                0x10000204                . = ALIGN (0x4)
+                0x10000204                _bss = .
+ *(.bss*)
+ .bss.dataOk    0x10000204        0x1 ./src/prim/prim_dataprocess.o
+                0x10000204                dataOk
+ .bss.teclado   0x10000205        0x1 ./src/prim/prim_gpio.o
+                0x10000205                teclado
+ .bss.vueltas   0x10000206        0x1 ./src/prim/prim_matrix.o
+                0x10000206                vueltas
+ .bss.nPos.4090
+                0x10000207        0x1 ./src/prim/prim_matrix.o
+ .bss.nColumna.4089
+                0x10000208        0x1 ./src/prim/prim_matrix.o
+ .bss.espaciado.4092
+                0x10000209        0x1 ./src/prim/prim_matrix.o
+ *fill*         0x1000020a        0x2 
+ .bss.buff_hora
+                0x1000020c        0x5 ./src/prim/prim_rtc.o
+                0x1000020c                buff_hora
+ .bss.rxOK      0x10000211        0x1 ./src/prim/prim_uart.o
+                0x10000211                rxOK
+ *fill*         0x10000212        0x2 
+ .bss.stringrecibido
+                0x10000214       0x4a ./src/prim/prim_uart.o
+                0x10000214                stringrecibido
+ .bss.stringrecibido_ok
+                0x1000025e        0x1 ./src/prim/prim_uart.o
+                0x1000025e                stringrecibido_ok
+ .bss.estado.3708
+                0x1000025f        0x1 ./src/prim/prim_uart.o
+ .bss.estado.3717
+                0x10000260        0x1 ./src/prim/prim_uart.o
+ .bss.i.3720    0x10000261        0x1 ./src/prim/prim_uart.o
+ .bss.contador.3706
+                0x10000262        0x1 ./src/drivers/driv_gpio.o
+ *fill*         0x10000263        0x1 
+ .bss.buffer_DIN
+                0x10000264       0x20 ./src/drivers/driv_matrix.o
+                0x10000264                buffer_DIN
+ .bss.fil.4087  0x10000284        0x1 ./src/drivers/driv_matrix.o
+ .bss.nFila.4105
+                0x10000285        0x1 ./src/drivers/driv_matrix.o
+ *fill*         0x10000286        0x2 
+ .bss.tim_flag  0x10000288        0x8 ./src/drivers/driv_systick.o
+                0x10000288                tim_flag
+ .bss.tim_t     0x10000290       0x20 ./src/drivers/driv_systick.o
+                0x10000290                tim_t
+ .bss.bufferTX  0x100002b0       0x64 ./src/drivers/driv_uart.o
+                0x100002b0                bufferTX
+ .bss.in_tx     0x10000314        0x2 ./src/drivers/driv_uart.o
+                0x10000314                in_tx
+ .bss.out_tx    0x10000316        0x2 ./src/drivers/driv_uart.o
+                0x10000316                out_tx
+ .bss.in_rx     0x10000318        0x2 ./src/drivers/driv_uart.o
+                0x10000318                in_rx
+ .bss.out_rx    0x1000031a        0x2 ./src/drivers/driv_uart.o
+                0x1000031a                out_rx
+ .bss.transmitiendo
+                0x1000031c        0x1 ./src/drivers/driv_uart.o
+                0x1000031c                transmitiendo
+ .bss.flag_estadoDeConeccion
+                0x1000031d        0x1 ./src/MdESistema.o
+                0x1000031d                flag_estadoDeConeccion
+ .bss.signal_connect
+                0x1000031e        0x1 ./src/MdESistema.o
+                0x1000031e                signal_connect
+ .bss.signal_test
+                0x1000031f        0x1 ./src/MdESistema.o
+                0x1000031f                signal_test
+ .bss.signal_save
+                0x10000320        0x1 ./src/MdESistema.o
+                0x10000320                signal_save
+ .bss.config_fin
+                0x10000321        0x1 ./src/MdESistema.o
+                0x10000321                config_fin
+ .bss.timer_started
+                0x10000322        0x1 ./src/MdESistema.o
+                0x10000322                timer_started
+ *fill*         0x10000323        0x1 
+ .bss.line      0x10000324       0x50 ./src/MdESistema.o
+                0x10000324                line
+ .bss.i.4453    0x10000374        0x1 ./src/MdESistema.o
+ .bss.boot.4455
+                0x10000375        0x1 ./src/MdESistema.o
+ .bss.estado.4486
+                0x10000376        0x1 ./src/MdESistema.o
+ .bss.cont_intentos.4487
+                0x10000377        0x1 ./src/MdESistema.o
+ .bss.Timer1    0x10000378        0x4 ./src/fatfs.o
+ .bss.Timer2    0x1000037c        0x4 ./src/fatfs.o
+ .bss.CardType  0x10000380        0x1 ./src/fatfs.o
+ *fill*         0x10000381        0x3 
+ .bss.FatFs     0x10000384        0x4 ./src/fatfs.o
+ .bss.Fsid      0x10000388        0x2 ./src/fatfs.o
+ *fill*         0x1000038a        0x2 
+ .bss.DirBuf    0x1000038c      0x260 ./src/fatfs.o
+ .bss.LfnBuf    0x100005ec      0x200 ./src/fatfs.o
+ .bss.seguidora.4066
+                0x100007ec        0x4 ./src/fatfs.o
+ .bss.velocity  0x100007f0        0x1 ./src/iotmatrix.o
+                0x100007f0                velocity
+ .bss.orientation
+                0x100007f1        0x1 ./src/iotmatrix.o
+                0x100007f1                orientation
+ .bss.mode      0x100007f2        0x1 ./src/iotmatrix.o
+                0x100007f2                mode
+ .bss.bright    0x100007f3        0x1 ./src/iotmatrix.o
+                0x100007f3                bright
+ .bss.text      0x100007f4       0x40 ./src/iotmatrix.o
+                0x100007f4                text
+ .bss.__end_of_heap
+                0x10000834        0x4 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__init_alloc.o)
+                0x10000834                __end_of_heap
+ .bss.__heaps   0x10000838        0x4 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__init_alloc.o)
+                0x10000838                __heaps
+ .bss.errno     0x1000083c        0x4 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(errno.o)
+                0x1000083c                errno
+ *(COMMON)
+                0x10000840                . = ALIGN (0x4)
+                0x10000840                _ebss = .
+                [!provide]                PROVIDE (end = .)
+
+.noinit_RAM2    0x2007c000        0x0
+                0x2007c000                . = ALIGN (0x4)
+ *(.noinit.$RAM2)
+ *(.noinit.$RamAHB32)
+ *(.noinit.$RAM2.*)
+ *(.noinit.$RamAHB32.*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x10000840        0x0
+                0x10000840                . = ALIGN (0x4)
+                0x10000840                _noinit = .
+ *(.noinit*)
+                0x10000840                . = ALIGN (0x4)
+                0x10000840                _end_noinit = .
+                0x10000840                PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop = DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xefff74f2                PROVIDE (__valid_user_code_checksum = (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0x00000000                _image_start = LOADADDR (.text)
+                0x00016ab4                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x00016ab4                _image_size = (_image_end - _image_start)
+OUTPUT(iotmatrix.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x68f0
+ .debug_info    0x00000000      0x383 ./src/prim/prim_dataprocess.o
+ .debug_info    0x00000383       0x98 ./src/prim/prim_gpio.o
+ .debug_info    0x0000041b      0x3ea ./src/prim/prim_matrix.o
+ .debug_info    0x00000805      0x1d5 ./src/prim/prim_rtc.o
+ .debug_info    0x000009da      0x26f ./src/prim/prim_systick.o
+ .debug_info    0x00000c49      0x344 ./src/prim/prim_uart.o
+ .debug_info    0x00000f8d      0x255 ./src/drivers/driv_gpio.o
+ .debug_info    0x000011e2      0x34e ./src/drivers/driv_matrix.o
+ .debug_info    0x00001530       0x72 ./src/drivers/driv_rtc.o
+ .debug_info    0x000015a2       0x72 ./src/drivers/driv_spi.o
+ .debug_info    0x00001614      0x378 ./src/drivers/driv_systick.o
+ .debug_info    0x0000198c      0x15c ./src/drivers/driv_uart.o
+ .debug_info    0x00001ae8      0x9f9 ./src/MdESistema.o
+ .debug_info    0x000024e1      0x276 ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x00002757       0x40 ./src/crp.o
+ .debug_info    0x00002797     0x34fe ./src/fatfs.o
+ .debug_info    0x00005c95      0x2a9 ./src/ffunicode.o
+ .debug_info    0x00005f3e      0x769 ./src/iotmatrix.o
+ .debug_info    0x000066a7      0x1d9 ./src/rtc176x.o
+ .debug_info    0x00006880       0x70 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+
+.debug_abbrev   0x00000000     0x15f9
+ .debug_abbrev  0x00000000      0x14e ./src/prim/prim_dataprocess.o
+ .debug_abbrev  0x0000014e       0x7c ./src/prim/prim_gpio.o
+ .debug_abbrev  0x000001ca      0x139 ./src/prim/prim_matrix.o
+ .debug_abbrev  0x00000303       0xc2 ./src/prim/prim_rtc.o
+ .debug_abbrev  0x000003c5       0xc6 ./src/prim/prim_systick.o
+ .debug_abbrev  0x0000048b      0x143 ./src/prim/prim_uart.o
+ .debug_abbrev  0x000005ce      0x11f ./src/drivers/driv_gpio.o
+ .debug_abbrev  0x000006ed      0x122 ./src/drivers/driv_matrix.o
+ .debug_abbrev  0x0000080f       0x56 ./src/drivers/driv_rtc.o
+ .debug_abbrev  0x00000865       0x56 ./src/drivers/driv_spi.o
+ .debug_abbrev  0x000008bb      0x165 ./src/drivers/driv_systick.o
+ .debug_abbrev  0x00000a20       0xa8 ./src/drivers/driv_uart.o
+ .debug_abbrev  0x00000ac8      0x2a6 ./src/MdESistema.o
+ .debug_abbrev  0x00000d6e      0x12a ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x00000e98       0x38 ./src/crp.o
+ .debug_abbrev  0x00000ed0      0x30d ./src/fatfs.o
+ .debug_abbrev  0x000011dd       0xe5 ./src/ffunicode.o
+ .debug_abbrev  0x000012c2      0x1c2 ./src/iotmatrix.o
+ .debug_abbrev  0x00001484      0x123 ./src/rtc176x.o
+ .debug_abbrev  0x000015a7       0x52 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+
+.debug_aranges  0x00000000      0x788
+ .debug_aranges
+                0x00000000       0x38 ./src/prim/prim_dataprocess.o
+ .debug_aranges
+                0x00000038       0x20 ./src/prim/prim_gpio.o
+ .debug_aranges
+                0x00000058       0x40 ./src/prim/prim_matrix.o
+ .debug_aranges
+                0x00000098       0x40 ./src/prim/prim_rtc.o
+ .debug_aranges
+                0x000000d8       0x30 ./src/prim/prim_systick.o
+ .debug_aranges
+                0x00000108       0x68 ./src/prim/prim_uart.o
+ .debug_aranges
+                0x00000170       0x60 ./src/drivers/driv_gpio.o
+ .debug_aranges
+                0x000001d0       0x40 ./src/drivers/driv_matrix.o
+ .debug_aranges
+                0x00000210       0x20 ./src/drivers/driv_rtc.o
+ .debug_aranges
+                0x00000230       0x20 ./src/drivers/driv_spi.o
+ .debug_aranges
+                0x00000250       0x30 ./src/drivers/driv_systick.o
+ .debug_aranges
+                0x00000280       0x28 ./src/drivers/driv_uart.o
+ .debug_aranges
+                0x000002a8       0x70 ./src/MdESistema.o
+ .debug_aranges
+                0x00000318       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x00000398       0x18 ./src/crp.o
+ .debug_aranges
+                0x000003b0      0x330 ./src/fatfs.o
+ .debug_aranges
+                0x000006e0       0x30 ./src/ffunicode.o
+ .debug_aranges
+                0x00000710       0x28 ./src/iotmatrix.o
+ .debug_aranges
+                0x00000738       0x30 ./src/rtc176x.o
+ .debug_aranges
+                0x00000768       0x20 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+
+.debug_ranges   0x00000000      0x670
+ .debug_ranges  0x00000000       0x28 ./src/prim/prim_dataprocess.o
+ .debug_ranges  0x00000028       0x10 ./src/prim/prim_gpio.o
+ .debug_ranges  0x00000038       0x30 ./src/prim/prim_matrix.o
+ .debug_ranges  0x00000068       0x30 ./src/prim/prim_rtc.o
+ .debug_ranges  0x00000098       0x20 ./src/prim/prim_systick.o
+ .debug_ranges  0x000000b8       0x58 ./src/prim/prim_uart.o
+ .debug_ranges  0x00000110       0x50 ./src/drivers/driv_gpio.o
+ .debug_ranges  0x00000160       0x30 ./src/drivers/driv_matrix.o
+ .debug_ranges  0x00000190       0x10 ./src/drivers/driv_rtc.o
+ .debug_ranges  0x000001a0       0x10 ./src/drivers/driv_spi.o
+ .debug_ranges  0x000001b0       0x20 ./src/drivers/driv_systick.o
+ .debug_ranges  0x000001d0       0x18 ./src/drivers/driv_uart.o
+ .debug_ranges  0x000001e8       0x60 ./src/MdESistema.o
+ .debug_ranges  0x00000248       0x70 ./src/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x000002b8      0x350 ./src/fatfs.o
+ .debug_ranges  0x00000608       0x20 ./src/ffunicode.o
+ .debug_ranges  0x00000628       0x18 ./src/iotmatrix.o
+ .debug_ranges  0x00000640       0x20 ./src/rtc176x.o
+ .debug_ranges  0x00000660       0x10 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+
+.debug_macro    0x00000000     0x6018
+ .debug_macro   0x00000000       0x56 ./src/prim/prim_dataprocess.o
+ .debug_macro   0x00000056      0xa9c ./src/prim/prim_dataprocess.o
+ .debug_macro   0x00000af2       0x10 ./src/prim/prim_dataprocess.o
+ .debug_macro   0x00000b02      0x12e ./src/prim/prim_dataprocess.o
+ .debug_macro   0x00000c30       0xa0 ./src/prim/prim_dataprocess.o
+ .debug_macro   0x00000cd0       0x33 ./src/prim/prim_gpio.o
+ .debug_macro   0x00000d03       0x2e ./src/prim/prim_gpio.o
+ .debug_macro   0x00000d31       0xa6 ./src/prim/prim_gpio.o
+ .debug_macro   0x00000dd7      0x1ea ./src/prim/prim_matrix.o
+ .debug_macro   0x00000fc1      0x130 ./src/prim/prim_matrix.o
+ .debug_macro   0x000010f1       0x64 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001155      0x172 ./src/prim/prim_matrix.o
+ .debug_macro   0x000012c7      0x196 ./src/prim/prim_matrix.o
+ .debug_macro   0x0000145d       0x76 ./src/prim/prim_matrix.o
+ .debug_macro   0x000014d3      0x118 ./src/prim/prim_matrix.o
+ .debug_macro   0x000015eb       0x40 ./src/prim/prim_matrix.o
+ .debug_macro   0x0000162b       0x16 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001641       0x16 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001657       0x10 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001667       0x10 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001677       0x10 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001687       0x28 ./src/prim/prim_matrix.o
+ .debug_macro   0x000016af      0x100 ./src/prim/prim_matrix.o
+ .debug_macro   0x000017af       0x40 ./src/prim/prim_matrix.o
+ .debug_macro   0x000017ef       0x28 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001817       0x10 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001827       0x1c ./src/prim/prim_matrix.o
+ .debug_macro   0x00001843       0x16 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001859       0x28 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001881       0x1c ./src/prim/prim_matrix.o
+ .debug_macro   0x0000189d       0xb8 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001955       0xe9 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001a3e       0xef ./src/prim/prim_matrix.o
+ .debug_macro   0x00001b2d       0x28 ./src/prim/prim_matrix.o
+ .debug_macro   0x00001b55       0x29 ./src/prim/prim_rtc.o
+ .debug_macro   0x00001b7e       0x58 ./src/prim/prim_rtc.o
+ .debug_macro   0x00001bd6      0x186 ./src/prim/prim_systick.o
+ .debug_macro   0x00001d5c       0x22 ./src/prim/prim_systick.o
+ .debug_macro   0x00001d7e       0x45 ./src/prim/prim_uart.o
+ .debug_macro   0x00001dc3      0x19c ./src/prim/prim_uart.o
+ .debug_macro   0x00001f5f       0x33 ./src/drivers/driv_gpio.o
+ .debug_macro   0x00001f92      0x1e4 ./src/drivers/driv_matrix.o
+ .debug_macro   0x00002176       0x29 ./src/drivers/driv_rtc.o
+ .debug_macro   0x0000219f       0x3b ./src/drivers/driv_spi.o
+ .debug_macro   0x000021da       0x2e ./src/drivers/driv_spi.o
+ .debug_macro   0x00002208      0x196 ./src/drivers/driv_spi.o
+ .debug_macro   0x0000239e       0xac ./src/drivers/driv_spi.o
+ .debug_macro   0x0000244a      0x200 ./src/drivers/driv_systick.o
+ .debug_macro   0x0000264a       0x28 ./src/drivers/driv_systick.o
+ .debug_macro   0x00002672       0x3c ./src/drivers/driv_uart.o
+ .debug_macro   0x000026ae      0x2a8 ./src/MdESistema.o
+ .debug_macro   0x00002956       0x5e ./src/MdESistema.o
+ .debug_macro   0x000029b4       0x2e ./src/MdESistema.o
+ .debug_macro   0x000029e2      0x5b3 ./src/MdESistema.o
+ .debug_macro   0x00002f95     0x1a3b ./src/MdESistema.o
+ .debug_macro   0x000049d0       0x1d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x000049ed       0x1a ./src/crp.o
+ .debug_macro   0x00004a07       0x34 ./src/crp.o
+ .debug_macro   0x00004a3b      0x509 ./src/fatfs.o
+ .debug_macro   0x00004f44       0xd0 ./src/fatfs.o
+ .debug_macro   0x00005014       0x7c ./src/fatfs.o
+ .debug_macro   0x00005090       0x88 ./src/fatfs.o
+ .debug_macro   0x00005118       0x3f ./src/ffunicode.o
+ .debug_macro   0x00005157      0x23f ./src/iotmatrix.o
+ .debug_macro   0x00005396       0x82 ./src/iotmatrix.o
+ .debug_macro   0x00005418       0x5f ./src/rtc176x.o
+ .debug_macro   0x00005477       0x29 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+ .debug_macro   0x000054a0      0xa66 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+ .debug_macro   0x00005f06      0x112 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+
+.debug_line     0x00000000     0x919f
+ .debug_line    0x00000000      0x305 ./src/prim/prim_dataprocess.o
+ .debug_line    0x00000305      0x122 ./src/prim/prim_gpio.o
+ .debug_line    0x00000427      0x6d7 ./src/prim/prim_matrix.o
+ .debug_line    0x00000afe      0x189 ./src/prim/prim_rtc.o
+ .debug_line    0x00000c87      0x353 ./src/prim/prim_systick.o
+ .debug_line    0x00000fda      0x36e ./src/prim/prim_uart.o
+ .debug_line    0x00001348      0x2a4 ./src/drivers/driv_gpio.o
+ .debug_line    0x000015ec      0x553 ./src/drivers/driv_matrix.o
+ .debug_line    0x00001b3f      0x123 ./src/drivers/driv_rtc.o
+ .debug_line    0x00001c62      0x110 ./src/drivers/driv_spi.o
+ .debug_line    0x00001d72      0x45b ./src/drivers/driv_systick.o
+ .debug_line    0x000021cd      0x18a ./src/drivers/driv_uart.o
+ .debug_line    0x00002357      0x9bd ./src/MdESistema.o
+ .debug_line    0x00002d14      0x15f ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x00002e73       0xb1 ./src/crp.o
+ .debug_line    0x00002f24     0x56d0 ./src/fatfs.o
+ .debug_line    0x000085f4      0x20f ./src/ffunicode.o
+ .debug_line    0x00008803      0x5bd ./src/iotmatrix.o
+ .debug_line    0x00008dc0      0x2ec ./src/rtc176x.o
+ .debug_line    0x000090ac       0xf3 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+
+.debug_str      0x00000000    0x1678f
+ .debug_str     0x00000000     0x36a9 ./src/prim/prim_dataprocess.o
+                               0x36f5 (size before relaxing)
+ .debug_str     0x000036a9      0x1fb ./src/prim/prim_gpio.o
+                               0x2fd4 (size before relaxing)
+ .debug_str     0x000038a4     0x26e6 ./src/prim/prim_matrix.o
+                               0x562c (size before relaxing)
+ .debug_str     0x00005f8a      0x294 ./src/prim/prim_rtc.o
+                               0x30cf (size before relaxing)
+ .debug_str     0x0000621e       0x85 ./src/prim/prim_systick.o
+                               0x4d96 (size before relaxing)
+ .debug_str     0x000062a3      0x5a8 ./src/prim/prim_uart.o
+                               0x344f (size before relaxing)
+ .debug_str     0x0000684b       0x90 ./src/drivers/driv_gpio.o
+                               0x304c (size before relaxing)
+ .debug_str     0x000068db       0x7e ./src/drivers/driv_matrix.o
+                               0x52c8 (size before relaxing)
+ .debug_str     0x00006959       0x22 ./src/drivers/driv_rtc.o
+                               0x3081 (size before relaxing)
+ .debug_str     0x0000697b      0x137 ./src/drivers/driv_spi.o
+                               0x3503 (size before relaxing)
+ .debug_str     0x00006ab2       0x7e ./src/drivers/driv_systick.o
+                               0x56f4 (size before relaxing)
+ .debug_str     0x00006b30       0x51 ./src/drivers/driv_uart.o
+                               0x347b (size before relaxing)
+ .debug_str     0x00006b81     0xb167 ./src/MdESistema.o
+                              0x110c0 (size before relaxing)
+ .debug_str     0x00011ce8      0x1c6 ./src/cr_startup_lpc175x_6x.o
+                               0x2f78 (size before relaxing)
+ .debug_str     0x00011eae       0xe9 ./src/crp.o
+                               0x2e85 (size before relaxing)
+ .debug_str     0x00011f97     0x40f7 ./src/fatfs.o
+                              0x12bf2 (size before relaxing)
+ .debug_str     0x0001608e       0x86 ./src/ffunicode.o
+                               0x3387 (size before relaxing)
+ .debug_str     0x00016114      0x488 ./src/iotmatrix.o
+                              0x1105c (size before relaxing)
+ .debug_str     0x0001659c       0x38 ./src/rtc176x.o
+                               0xe2bc (size before relaxing)
+ .debug_str     0x000165d4      0x1bb C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+                               0x32e2 (size before relaxing)
+
+.comment        0x00000000       0xf3
+ .comment       0x00000000       0x75 ./src/prim/prim_dataprocess.o
+                                 0x76 (size before relaxing)
+ .comment       0x00000075       0x76 ./src/prim/prim_gpio.o
+ .comment       0x00000075       0x76 ./src/prim/prim_matrix.o
+ .comment       0x00000075       0x76 ./src/prim/prim_rtc.o
+ .comment       0x00000075       0x76 ./src/prim/prim_systick.o
+ .comment       0x00000075       0x76 ./src/prim/prim_uart.o
+ .comment       0x00000075       0x76 ./src/drivers/driv_gpio.o
+ .comment       0x00000075       0x76 ./src/drivers/driv_matrix.o
+ .comment       0x00000075       0x76 ./src/drivers/driv_rtc.o
+ .comment       0x00000075       0x76 ./src/drivers/driv_spi.o
+ .comment       0x00000075       0x76 ./src/drivers/driv_systick.o
+ .comment       0x00000075       0x76 ./src/drivers/driv_uart.o
+ .comment       0x00000075       0x76 ./src/MdESistema.o
+ .comment       0x00000075       0x76 ./src/cr_startup_lpc175x_6x.o
+ .comment       0x00000075       0x76 ./src/crp.o
+ .comment       0x00000075       0x76 ./src/fatfs.o
+ .comment       0x00000075       0x76 ./src/ffunicode.o
+ .comment       0x00000075       0x76 ./src/iotmatrix.o
+ .comment       0x00000075       0x76 ./src/rtc176x.o
+ .comment       0x00000075       0x7e C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+                                 0x7f (size before relaxing)
+ .comment       0x000000f3       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+ .comment       0x000000f3       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+ .comment       0x000000f3       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcpy.o)
+ .comment       0x000000f3       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strlen.o)
+ .comment       0x000000f3       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o)
+ .comment       0x000000f3       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__init_alloc.o)
+ .comment       0x000000f3       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
+ .comment       0x000000f3       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(errno.o)
+ .comment       0x000000f3       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcspn.o)
+ .comment       0x000000f3       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strspn.o)
+ .comment       0x000000f3       0x76 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_check_heap.o)
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x2d ./src/prim/prim_dataprocess.o
+ .ARM.attributes
+                0x0000002d       0x2d ./src/prim/prim_gpio.o
+ .ARM.attributes
+                0x0000005a       0x2d ./src/prim/prim_matrix.o
+ .ARM.attributes
+                0x00000087       0x2d ./src/prim/prim_rtc.o
+ .ARM.attributes
+                0x000000b4       0x2d ./src/prim/prim_systick.o
+ .ARM.attributes
+                0x000000e1       0x2d ./src/prim/prim_uart.o
+ .ARM.attributes
+                0x0000010e       0x2d ./src/drivers/driv_gpio.o
+ .ARM.attributes
+                0x0000013b       0x2d ./src/drivers/driv_matrix.o
+ .ARM.attributes
+                0x00000168       0x2d ./src/drivers/driv_rtc.o
+ .ARM.attributes
+                0x00000195       0x2d ./src/drivers/driv_spi.o
+ .ARM.attributes
+                0x000001c2       0x2d ./src/drivers/driv_systick.o
+ .ARM.attributes
+                0x000001ef       0x2d ./src/drivers/driv_uart.o
+ .ARM.attributes
+                0x0000021c       0x2d ./src/MdESistema.o
+ .ARM.attributes
+                0x00000249       0x2d ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x00000276       0x33 ./src/crp.o
+ .ARM.attributes
+                0x000002a9       0x2d ./src/fatfs.o
+ .ARM.attributes
+                0x000002d6       0x2d ./src/ffunicode.o
+ .ARM.attributes
+                0x00000303       0x2d ./src/iotmatrix.o
+ .ARM.attributes
+                0x00000330       0x2d ./src/rtc176x.o
+ .ARM.attributes
+                0x0000035d       0x33 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+ .ARM.attributes
+                0x00000390       0x2d c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x000003bd       0x2d c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+ .ARM.attributes
+                0x000003ea       0x2d c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcpy.o)
+ .ARM.attributes
+                0x00000417       0x2d c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strlen.o)
+ .ARM.attributes
+                0x00000444       0x2d c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o)
+ .ARM.attributes
+                0x00000471       0x2d c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__init_alloc.o)
+ .ARM.attributes
+                0x0000049e       0x2d c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
+ .ARM.attributes
+                0x000004cb       0x33 c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(errno.o)
+ .ARM.attributes
+                0x000004fe       0x2d c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcspn.o)
+ .ARM.attributes
+                0x0000052b       0x2d c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strspn.o)
+ .ARM.attributes
+                0x00000558       0x2d c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_check_heap.o)
+
+.debug_frame    0x00000000     0x1b38
+ .debug_frame   0x00000000       0xac ./src/prim/prim_dataprocess.o
+ .debug_frame   0x000000ac       0x38 ./src/prim/prim_gpio.o
+ .debug_frame   0x000000e4       0xcc ./src/prim/prim_matrix.o
+ .debug_frame   0x000001b0       0xd8 ./src/prim/prim_rtc.o
+ .debug_frame   0x00000288       0x88 ./src/prim/prim_systick.o
+ .debug_frame   0x00000310      0x184 ./src/prim/prim_uart.o
+ .debug_frame   0x00000494      0x158 ./src/drivers/driv_gpio.o
+ .debug_frame   0x000005ec       0xb4 ./src/drivers/driv_matrix.o
+ .debug_frame   0x000006a0       0x30 ./src/drivers/driv_rtc.o
+ .debug_frame   0x000006d0       0x2c ./src/drivers/driv_spi.o
+ .debug_frame   0x000006fc       0x74 ./src/drivers/driv_systick.o
+ .debug_frame   0x00000770       0x50 ./src/drivers/driv_uart.o
+ .debug_frame   0x000007c0      0x174 ./src/MdESistema.o
+ .debug_frame   0x00000934      0x170 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x00000aa4      0xf08 ./src/fatfs.o
+ .debug_frame   0x000019ac       0x88 ./src/ffunicode.o
+ .debug_frame   0x00001a34       0x54 ./src/iotmatrix.o
+ .debug_frame   0x00001a88       0x80 ./src/rtc176x.o
+ .debug_frame   0x00001b08       0x30 C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+AnalizeTimer                                      ./src/drivers/driv_systick.o
+BOD_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+BarridoMatrix                                     ./src/drivers/driv_matrix.o
+                                                  ./src/drivers/driv_systick.o
+BusFault_Handler                                  ./src/cr_startup_lpc175x_6x.o
+CANActivity_IRQHandler                            ./src/cr_startup_lpc175x_6x.o
+CAN_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+CRP_WORD                                          ./src/crp.o
+ChangeMode_Matrix                                 ./src/MdESistema.o
+ClearMatrix                                       ./src/prim/prim_matrix.o
+                                                  ./src/MdESistema.o
+ClearMatrixRegisters                              ./src/drivers/driv_matrix.o
+Coneccion                                         ./src/MdESistema.o
+DMA_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+DebugMon_Handler                                  ./src/cr_startup_lpc175x_6x.o
+DecreaseVel_Matrix                                ./src/MdESistema.o
+DisplayMatrix                                     ./src/prim/prim_matrix.o
+                                                  ./src/MdESistema.o
+EINT0_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+EINT1_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+EINT2_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+EINT3_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+ENET_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+GetPIN_                                           ./src/drivers/driv_gpio.o
+GetTecla                                          ./src/prim/prim_gpio.o
+                                                  ./src/MdESistema.o
+GetTeclaHW                                        ./src/drivers/driv_gpio.o
+GetTeclaSW                                        ./src/drivers/driv_gpio.o
+                                                  ./src/drivers/driv_systick.o
+HardFault_Handler                                 ./src/cr_startup_lpc175x_6x.o
+I2C0_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+I2C1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+I2C2_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+I2S_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+IncreaseVel_Matrix                                ./src/MdESistema.o
+InicializarPLL                                    C:\Users\User\Desktop\bibliotecaInfoII\bin\libbibliotecaInfoII.a(DR_PLL.o)
+                                                  ./src/iotmatrix.o
+InicializarSysTick                                ./src/drivers/driv_systick.o
+                                                  ./src/MdESistema.o
+InitButtons                                       ./src/drivers/driv_gpio.o
+                                                  ./src/MdESistema.o
+InitLedRGB                                        ./src/drivers/driv_gpio.o
+                                                  ./src/MdESistema.o
+InitMatrixLeds                                    ./src/drivers/driv_matrix.o
+                                                  ./src/MdESistema.o
+InitMdEConectado                                  ./src/MdESistema.o
+InitMdEDesconectado                               ./src/MdESistema.o
+InitMdESistema                                    ./src/MdESistema.o
+                                                  ./src/iotmatrix.o
+InitRTC                                           ./src/drivers/driv_rtc.o
+                                                  ./src/MdESistema.o
+InitSPI                                           ./src/drivers/driv_spi.o
+                                                  ./src/MdESistema.o
+InitUART1                                         ./src/drivers/driv_uart.o
+                                                  ./src/MdESistema.o
+IntDefaultHandler                                 ./src/cr_startup_lpc175x_6x.o
+MCPWM_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+MdEConectado                                      ./src/MdESistema.o
+MdEDesconectado                                   ./src/MdESistema.o
+MdESistema                                        ./src/MdESistema.o
+                                                  ./src/iotmatrix.o
+MemManage_Handler                                 ./src/cr_startup_lpc175x_6x.o
+NMI_Handler                                       ./src/cr_startup_lpc175x_6x.o
+PLL0_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+PLL1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+PWM1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+PendSV_Handler                                    ./src/cr_startup_lpc175x_6x.o
+PopRX_UART1                                       ./src/prim/prim_uart.o
+PopTX_UART1                                       ./src/prim/prim_uart.o
+                                                  ./src/drivers/driv_uart.o
+PushRX_UART1                                      ./src/prim/prim_uart.o
+                                                  ./src/drivers/driv_uart.o
+PushTX_UART1                                      ./src/prim/prim_uart.o
+QEI_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+RIT_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+RTC_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+Receive_UART1                                     ./src/prim/prim_uart.o
+Recepcion_ModuloWifi                              ./src/prim/prim_uart.o
+                                                  ./src/drivers/driv_systick.o
+Recepcion_ModuloWifi_Data                         ./src/prim/prim_uart.o
+                                                  ./src/drivers/driv_systick.o
+ResetISR                                          ./src/cr_startup_lpc175x_6x.o
+SPI_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+SSP0_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+SSP1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+SVC_Handler                                       ./src/cr_startup_lpc175x_6x.o
+SetDIR_                                           ./src/drivers/driv_gpio.o
+                                                  ./src/drivers/driv_matrix.o
+SetMODE_                                          ./src/drivers/driv_gpio.o
+                                                  ./src/drivers/driv_matrix.o
+SetPINSEL_                                        ./src/drivers/driv_gpio.o
+                                                  ./src/drivers/driv_uart.o
+                                                  ./src/drivers/driv_spi.o
+                                                  ./src/drivers/driv_matrix.o
+SetPIN_                                           ./src/drivers/driv_gpio.o
+                                                  ./src/MdESistema.o
+                                                  ./src/drivers/driv_matrix.o
+ShiftLeftMatrix                                   ./src/prim/prim_matrix.o
+ShiftMatrix                                       ./src/prim/prim_matrix.o
+                                                  ./src/MdESistema.o
+ShiftRightMatrix                                  ./src/prim/prim_matrix.o
+SysTick_Handler                                   ./src/drivers/driv_systick.o
+TIMER0_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TIMER1_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TIMER2_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TIMER3_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TimEvent                                          ./src/prim/prim_systick.o
+                                                  ./src/MdESistema.o
+TimStart                                          ./src/prim/prim_systick.o
+                                                  ./src/MdESistema.o
+TimStop                                           ./src/prim/prim_systick.o
+                                                  ./src/MdESistema.o
+ToggleOrientation_Matrix                          ./src/MdESistema.o
+TransferToAllMAX7219                              ./src/drivers/driv_matrix.o
+                                                  ./src/iotmatrix.o
+                                                  ./src/MdESistema.o
+TransferToMAX7219                                 ./src/drivers/driv_matrix.o
+Transmit_UART1                                    ./src/prim/prim_uart.o
+                                                  ./src/MdESistema.o
+UART0_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+UART1_IRQHandler                                  ./src/drivers/driv_uart.o
+UART2_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+UART3_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+USBActivity_IRQHandler                            ./src/cr_startup_lpc175x_6x.o
+USB_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+UsageFault_Handler                                ./src/cr_startup_lpc175x_6x.o
+WDT_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+_Csys_alloc                                       c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+__aeabi_idiv0                                     c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+__aeabi_ldivmod                                   c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+__aeabi_lowlevel_memset                           c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+__aeabi_memclr                                    c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memclr4                                   c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memclr8                                   c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memcpy                                    c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+__aeabi_memcpy4                                   c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memcpy8                                   c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memmove                                   c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memmove4                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memmove8                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memset                                    c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memset4                                   c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memset8                                   c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_uldivmod                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+                                                  ./src/fatfs.o
+__bhs_ldivmod1                                    c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+__bss_section_table_end                           ./src/cr_startup_lpc175x_6x.o
+__check_heap_overflow                             c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_check_heap.o)
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
+__data_section_table                              ./src/cr_startup_lpc175x_6x.o
+__data_section_table_end                          ./src/cr_startup_lpc175x_6x.o
+__end_of_heap                                     c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__init_alloc.o)
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
+__heaps                                           c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__init_alloc.o)
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+__main                                            c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+                                                  ./src/cr_startup_lpc175x_6x.o
+__sys_appexit                                     c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+__sys_write                                       c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+__valid_user_code_checksum                        ./src/cr_startup_lpc175x_6x.o
+__weak_main                                       c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+_init_alloc                                       c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__init_alloc.o)
+_pvHeapLimit                                      c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_check_heap.o)
+_pvHeapStart                                      c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
+_sbrk                                             c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+_vStackTop                                        ./src/cr_startup_lpc175x_6x.o
+bright                                            ./src/iotmatrix.o
+                                                  ./src/MdESistema.o
+                                                  ./src/prim/prim_dataprocess.o
+bss_init                                          ./src/cr_startup_lpc175x_6x.o
+buff_hora                                         ./src/prim/prim_rtc.o
+                                                  ./src/MdESistema.o
+bufferRX                                          ./src/drivers/driv_uart.o
+bufferTX                                          ./src/drivers/driv_uart.o
+                                                  ./src/prim/prim_uart.o
+buffer_DIN                                        ./src/drivers/driv_matrix.o
+                                                  ./src/prim/prim_matrix.o
+calloc                                            c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+config_fin                                        ./src/MdESistema.o
+                                                  ./src/drivers/driv_systick.o
+data                                              ./src/prim/prim_dataprocess.o
+dataLen                                           ./src/prim/prim_dataprocess.o
+                                                  ./src/MdESistema.o
+dataOk                                            ./src/prim/prim_dataprocess.o
+                                                  ./src/iotmatrix.o
+                                                  ./src/MdESistema.o
+dataToString                                      ./src/prim/prim_dataprocess.o
+data_init                                         ./src/cr_startup_lpc175x_6x.o
+disk_initialize                                   ./src/fatfs.o
+disk_ioctl                                        ./src/fatfs.o
+disk_read                                         ./src/fatfs.o
+disk_status                                       ./src/fatfs.o
+disk_timerproc                                    ./src/fatfs.o
+                                                  ./src/drivers/driv_systick.o
+disk_write                                        ./src/fatfs.o
+errno                                             c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(errno.o)
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(_cr_sbrk.o)
+escribir                                          ./src/MdESistema.o
+f_chdir                                           ./src/fatfs.o
+f_chmod                                           ./src/fatfs.o
+f_close_SD                                        ./src/fatfs.o
+                                                  ./src/iotmatrix.o
+                                                  ./src/MdESistema.o
+f_closedir                                        ./src/fatfs.o
+f_findfirst                                       ./src/fatfs.o
+f_findnext                                        ./src/fatfs.o
+f_getcwd                                          ./src/fatfs.o
+f_getfree                                         ./src/fatfs.o
+f_getlabel                                        ./src/fatfs.o
+f_gets_SD                                         ./src/fatfs.o
+                                                  ./src/iotmatrix.o
+f_lseek_SD                                        ./src/fatfs.o
+f_mkdir                                           ./src/fatfs.o
+f_mkfs                                            ./src/fatfs.o
+f_mount_SD                                        ./src/fatfs.o
+                                                  ./src/iotmatrix.o
+f_open_SD                                         ./src/fatfs.o
+                                                  ./src/iotmatrix.o
+                                                  ./src/MdESistema.o
+f_opendir                                         ./src/fatfs.o
+f_read_SD                                         ./src/fatfs.o
+f_readdir                                         ./src/fatfs.o
+f_rename                                          ./src/fatfs.o
+f_setlabel                                        ./src/fatfs.o
+f_stat                                            ./src/fatfs.o
+f_sync                                            ./src/fatfs.o
+f_truncate                                        ./src/fatfs.o
+f_unlink                                          ./src/fatfs.o
+f_utime                                           ./src/fatfs.o
+f_write                                           ./src/fatfs.o
+                                                  ./src/MdESistema.o
+ff_oem2uni                                        ./src/ffunicode.o
+                                                  ./src/fatfs.o
+ff_uni2oem                                        ./src/ffunicode.o
+                                                  ./src/fatfs.o
+ff_wtoupper                                       ./src/ffunicode.o
+                                                  ./src/fatfs.o
+flag_estadoDeConeccion                            ./src/MdESistema.o
+free                                              c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+g_pfnVectors                                      ./src/cr_startup_lpc175x_6x.o
+getDate                                           ./src/prim/prim_rtc.o
+getRxModuloOK                                     ./src/prim/prim_uart.o
+                                                  ./src/MdESistema.o
+getRxModulo_stringrecibido_OK                     ./src/prim/prim_uart.o
+getTime                                           ./src/prim/prim_rtc.o
+                                                  ./src/MdESistema.o
+get_fattime                                       ./src/iotmatrix.o
+                                                  ./src/fatfs.o
+horaToStr                                         ./src/prim/prim_rtc.o
+                                                  ./src/MdESistema.o
+in_rx                                             ./src/drivers/driv_uart.o
+                                                  ./src/prim/prim_uart.o
+in_tx                                             ./src/drivers/driv_uart.o
+                                                  ./src/prim/prim_uart.o
+leer                                              ./src/MdESistema.o
+line                                              ./src/MdESistema.o
+                                                  ./src/iotmatrix.o
+main                                              ./src/iotmatrix.o
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+malloc                                            c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+                                                  ./src/iotmatrix.o
+memcpy                                            c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+memset                                            c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+mode                                              ./src/iotmatrix.o
+                                                  ./src/MdESistema.o
+                                                  ./src/prim/prim_dataprocess.o
+orientation                                       ./src/iotmatrix.o
+                                                  ./src/MdESistema.o
+                                                  ./src/drivers/driv_matrix.o
+                                                  ./src/prim/prim_matrix.o
+                                                  ./src/prim/prim_dataprocess.o
+out_rx                                            ./src/drivers/driv_uart.o
+                                                  ./src/prim/prim_uart.o
+out_tx                                            ./src/drivers/driv_uart.o
+                                                  ./src/prim/prim_uart.o
+realloc                                           c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(alloc.o)
+recibio                                           ./src/iotmatrix.o
+rtc_gettime                                       ./src/rtc176x.o
+                                                  ./src/iotmatrix.o
+rtc_initialize                                    ./src/rtc176x.o
+rtc_settime                                       ./src/rtc176x.o
+rxOK                                              ./src/prim/prim_uart.o
+setDate                                           ./src/prim/prim_rtc.o
+setTime                                           ./src/prim/prim_rtc.o
+                                                  ./src/MdESistema.o
+signal_connect                                    ./src/MdESistema.o
+signal_disconnect                                 ./src/MdESistema.o
+                                                  ./src/prim/prim_uart.o
+signal_save                                       ./src/MdESistema.o
+                                                  ./src/prim/prim_uart.o
+signal_test                                       ./src/MdESistema.o
+                                                  ./src/prim/prim_uart.o
+                                                  ./src/prim/prim_matrix.o
+status_sd                                         ./src/MdESistema.o
+strcpy                                            c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcpy.o)
+                                                  ./src/iotmatrix.o
+                                                  ./src/prim/prim_dataprocess.o
+strcspn                                           c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strcspn.o)
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o)
+stringToData                                      ./src/prim/prim_dataprocess.o
+                                                  ./src/iotmatrix.o
+                                                  ./src/MdESistema.o
+stringrecibido                                    ./src/prim/prim_uart.o
+                                                  ./src/MdESistema.o
+stringrecibido_ok                                 ./src/prim/prim_uart.o
+strlen                                            c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strlen.o)
+                                                  ./src/prim/prim_dataprocess.o
+strspn                                            c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strspn.o)
+                                                  c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o)
+strtok                                            c:/nxp/mcuxpressoide_11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(strtok.o)
+                                                  ./src/prim/prim_dataprocess.o
+tablaMatriz                                       ./src/prim/prim_matrix.o
+teclado                                           ./src/prim/prim_gpio.o
+                                                  ./src/drivers/driv_gpio.o
+text                                              ./src/iotmatrix.o
+                                                  ./src/MdESistema.o
+                                                  ./src/prim/prim_dataprocess.o
+tim_flag                                          ./src/drivers/driv_systick.o
+                                                  ./src/prim/prim_systick.o
+tim_t                                             ./src/drivers/driv_systick.o
+                                                  ./src/prim/prim_systick.o
+timer_started                                     ./src/MdESistema.o
+transmitiendo                                     ./src/drivers/driv_uart.o
+                                                  ./src/prim/prim_uart.o
+velocity                                          ./src/iotmatrix.o
+                                                  ./src/MdESistema.o
+                                                  ./src/prim/prim_dataprocess.o
+verifyData                                        ./src/prim/prim_dataprocess.o
+                                                  ./src/iotmatrix.o
+                                                  ./src/MdESistema.o
+vueltas                                           ./src/prim/prim_matrix.o
+                                                  ./src/MdESistema.o

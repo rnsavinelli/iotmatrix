@@ -1,0 +1,9 @@
+driv_gpio.c:13:9:GetTeclaHW	16	static
+driv_gpio.c:31:6:GetTeclaSW	16	static
+driv_gpio.c:51:6:InitLedRGB	8	static
+driv_gpio.c:72:6:InitButtons	8	static
+driv_gpio.c:91:6:SetPINSEL_	16	static
+driv_gpio.c:97:6:SetMODE_	16	static
+driv_gpio.c:103:6:SetDIR_	16	static
+driv_gpio.c:111:6:SetPIN_	16	static
+driv_gpio.c:119:9:GetPIN_	16	static

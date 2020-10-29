@@ -1,0 +1,2 @@
+driv_uart.c:21:6:InitUART0	8	static
+driv_uart.c:47:6:UART0_IRQHandler	16	static

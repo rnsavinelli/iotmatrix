@@ -1,0 +1,4 @@
+prim_dataprocess.c:27:6:stringToData	96	static
+prim_dataprocess.c:50:6:dataToString	24	static
+prim_dataprocess.c:74:6:verifyData	96	static
+prim_dataprocess.c:103:9:dataLen	24	static

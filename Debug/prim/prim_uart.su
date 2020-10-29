@@ -1,0 +1,6 @@
+prim_uart.c:12:6:Transmit_UART0	24	static
+prim_uart.c:19:6:PushTX_UART0	16	static
+prim_uart.c:31:9:PopTX_UART0	16	static
+prim_uart.c:46:9:Receive_UART0	8	static
+prim_uart.c:51:6:PushRX_UART0	16	static
+prim_uart.c:58:9:PopRX_UART0	16	static

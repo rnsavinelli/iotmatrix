@@ -1,0 +1,3 @@
+prim_systick.c:11:9:TimEvent	16	static
+prim_systick.c:22:6:TimStart	16	static
+prim_systick.c:35:6:TimStop	16	static

@@ -1,0 +1,4 @@
+prim_rtc.c:10:6:setTime	24	static
+prim_rtc.c:18:6:setDate	24	static
+prim_rtc.c:25:6:getTime	24	static
+prim_rtc.c:32:6:getDate	24	static

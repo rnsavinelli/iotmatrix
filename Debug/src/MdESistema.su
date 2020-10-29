@@ -1,0 +1,11 @@
+MdESistema.c:71:6:MdESistema	16	static
+MdESistema.c:102:6:InitMdESistema	8	static
+MdESistema.c:118:6:InitMdEDesconectado	16	static
+MdESistema.c:127:6:InitMdEConectado	8	static
+MdESistema.c:138:6:MdEDesconectado	32	static
+MdESistema.c:221:6:IncreaseVel_Matrix	4	static
+MdESistema.c:233:6:DecreaseVel_Matrix	4	static
+MdESistema.c:245:6:ToggleOrientation_Matrix	8	static
+MdESistema.c:257:6:ChangeMode_Matrix	8	static
+MdESistema.c:267:6:MdEConectado	40	static
+MdESistema.c:514:9:Coneccion	4	static

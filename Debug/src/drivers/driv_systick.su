@@ -1,0 +1,3 @@
+driv_systick.c:22:6:InicializarSysTick	4	static
+driv_systick.c:32:6:SysTick_Handler	8	static
+driv_systick.c:47:6:AnalizeTimer	16	static

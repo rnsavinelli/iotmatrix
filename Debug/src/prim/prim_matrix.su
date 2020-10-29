@@ -1,0 +1,5 @@
+prim_matrix.c:120:6:DisplayMatrix	24	static
+prim_matrix.c:235:6:ShiftMatrix	8	static
+prim_matrix.c:243:6:ShiftRightMatrix	16	static
+prim_matrix.c:290:6:ShiftLeftMatrix	16	static
+prim_matrix.c:335:6:ClearMatrix	16	static

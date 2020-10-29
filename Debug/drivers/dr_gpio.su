@@ -1,0 +1,5 @@
+dr_gpio.c:10:6:SetPINSEL_	16	static
+dr_gpio.c:16:6:SetMODE_	16	static
+dr_gpio.c:22:6:SetDIR_	16	static
+dr_gpio.c:30:6:SetPIN_	16	static
+dr_gpio.c:38:9:GetPIN_	16	static
