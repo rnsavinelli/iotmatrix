@@ -2,7 +2,7 @@
  * dr_systick.h
  *
  *  Created on: Sep 27, 2019
- *      Author: oem
+ *      Author: R. Nicolás Savinelli, Tomás Arbia, Kevin Chon, Juan Ignacio Piccardi
  */
 
 #ifndef DR_SYSTICK_H_

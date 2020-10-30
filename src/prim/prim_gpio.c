@@ -2,7 +2,7 @@
  * pr_gpio.c
  *
  *  Created on: Sep 27, 2019
- *      Author: oem
+ *      Author: R. Nicolás Savinelli, Tomás Arbia, Kevin Chon, Juan Ignacio Piccardi
  */
 #include "driv_gpio.h"
 #include "prim_gpio.h"

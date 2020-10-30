@@ -2,7 +2,7 @@
  * prim_systick.h
  *
  *  Created on: Oct 4, 2019
- *      Author: User
+ *      Author: R. Nicolás Savinelli, Tomás Arbia, Kevin Chon, Juan Ignacio Piccardi
  */
 
 #ifndef PRIM_PRIM_SYSTICK_H_

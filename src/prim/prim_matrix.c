@@ -2,7 +2,7 @@
  * prim_matrix.c
  *
  *  Created on: Oct 26, 2019
- *      Author: User
+ *      Author: R. Nicolás Savinelli, Tomás Arbia, Kevin Chon, Juan Ignacio Piccardi
  */
 
 #include "driv_matrix.h"

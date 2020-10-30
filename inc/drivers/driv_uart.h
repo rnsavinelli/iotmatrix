@@ -2,7 +2,7 @@
  * driv_uart.h
  *
  *  Created on: Oct 10, 2019
- *      Author: User
+ *      Author: R. Nicolás Savinelli, Tomás Arbia, Kevin Chon, Juan Ignacio Piccardi
  */
 
 #ifndef DRIV_UART_H_

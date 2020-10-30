@@ -2,7 +2,7 @@
  * driv_spi.c
  *
  *  Created on: Oct 11, 2019
- *      Author: User
+ *      Author: R. Nicolás Savinelli, Tomás Arbia, Kevin Chon, Juan Ignacio Piccardi
  */
 #include "driv_spi.h"
 #include "driv_uart.h"

@@ -2,7 +2,7 @@
  * prim_dataprocess.c
  *
  *  Created on: Dec 13, 2019
- *      Author: User
+ *      Author: R. Nicolás Savinelli, Tomás Arbia, Kevin Chon, Juan Ignacio Piccardi
  */
 
 #include <stdio.h>

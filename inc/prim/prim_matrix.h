@@ -2,7 +2,7 @@
  * prim_matrix.h
  *
  *  Created on: Oct 26, 2019
- *      Author: User
+ *      Author: R. Nicolás Savinelli, Tomás Arbia, Kevin Chon, Juan Ignacio Piccardi
  */
 
 #ifndef PRIM_PRIM_MATRIX_H_

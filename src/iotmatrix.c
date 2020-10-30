@@ -1,10 +1,8 @@
 /*
 ===============================================================================
  Name        : iotmatrix.c
- Author      : $(author)
- Version     :
- Copyright   : $(copyright)
- Description : main definition
+ Author      : R. Nicolás Savinelli, Tomás Arbia, Kevin Chon, Juan Ignacio Piccardi
+ Copyright   : GPL-3.0
 ===============================================================================
 */
 
